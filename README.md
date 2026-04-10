@@ -16,9 +16,6 @@ Before running this project, make sure you have installed:
 
 - ✅ .NET 10 SDK
 
-Check your installed version:
-```bash
-dotnet --version
 📌 Description
 
 A Command-Line Interface (CLI) based Inventory Management System developed in C#.
